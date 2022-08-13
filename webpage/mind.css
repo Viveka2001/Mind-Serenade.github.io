@@ -1,0 +1,10 @@
+ul{
+    block-size: 25%;
+    color:rgb(232, 43, 0);
+    max-height: max-content;
+}
+
+
+button{
+    background-color: aqua;
+}
